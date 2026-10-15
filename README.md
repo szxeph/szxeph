@@ -1,4 +1,4 @@
-# Hi, I'm Elina 👋
+# I'm Elina 
 
 ML Engineering student interested in machine learning, deep learning, NLP and computer vision. I build educational projects and focus on understanding the complete workflow: data preparation, model training, evaluation and error analysis.
 
